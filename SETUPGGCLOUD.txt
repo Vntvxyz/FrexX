@@ -1,0 +1,5 @@
+git clone https://github.com/Vntvxyz/FrexX
+pip install pystyle
+pip install asciimatics
+cd FrexX
+python3 main.py
